@@ -1,4 +1,4 @@
-# history
+# acknowledgments
 
 Rich
    1. [segev jama 2010](https://jamanetwork.com/journals/jama/fullarticle/185508)
