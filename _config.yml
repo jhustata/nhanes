@@ -1,9 +1,9 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: My sample book
-author: The Jupyter Book Community
-logo: logo.png
+title: Abimereki Muzaale
+author: jhustsata
+logo: https://cdn.jamanetwork.com/ama/content_public/journal/jama/929765/joi130123f1.png?Expires=1683793256&Signature=UY3XSHhpgEpSpK1x~wqLYS1CaWa0Itb6SDDkvZ9DYIi2UFQD02~xAm3~tKO3u265eNC6jwa3PEiUQL-OXEi0OB5verUwcT2YNpMa-9kdgbqNfvpdVC5Yg7gXNnPcqgvGuWwQEr8eFMpen-W8Foft0tv7Xujzqai1G09a~Ndm43TjzJJnhUkznJ6N93sjc-AOoqj0Tv8QKw7K4syVCSGZZ-AhYyK~Y9Y2zChTbwCZpzbQhQ~3s7bASF7Hq5NFNM7Q-2JU9iN-7hi6HcjaQwLqUrZaS6DqNw~c6Yw5zVr5ggCvrYu94w9yg6H-VgLYJQ3s5-kijqgiDqhvnDQfOTjc0A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
