@@ -1,13 +1,9 @@
 # acknowledgments
 
-Rich
-   1. [segev jama 2010](https://jamanetwork.com/journals/jama/fullarticle/185508)
-   2. [muzaale gastroenterology 2011](https://www.gastrojournal.org/article/S0016-5085(11)01576-9/fulltext)
-   3. [muzaale jama 2014](https://jamanetwork.com/journals/jama/fullarticle/1829682)
-   4. [grams](https://www.nejm.org/doi/full/10.1056/NEJMoa1510491)
-   5. [muzaale surgery 2018](https://github.com/jhustata/nhanes/blob/72bc1054ba7418b4895e1f40775d743aa8c26b78/nhanes.muzaale.pdf)
-    6. [muzaale ajkd 2019](https://www.ajkd.org/article/S0272-6386(19)31013-3/fulltext)
-    7. [jhustata/2022-23](https://github.com/jhustata/nhanes/blob/72bc1054ba7418b4895e1f40775d743aa8c26b78/nhanes.png)
+two types of artists:
 
-```{tableofcontents}
-```
+   1. use forebears as a scaffolding on which to support your delicate new ideas
+   2. creative-destructive in using past edifices only as a source for building blocks
+   3. perhaps a third type in whom transition between these two extremes is perceptible
+
+ 
