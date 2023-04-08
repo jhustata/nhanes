@@ -4,6 +4,8 @@
 format: jb-book
 root: intro
 chapters:
-- file: future
-- file: present
-- file: method
+- file: methods
+- file: results
+- file: conclusions
+- file: acknowledgments
+- file: references
