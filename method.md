@@ -14,7 +14,8 @@ kernelspec:
 
 # method
 
-nhanes-v040723.ado was original vision
+[nhanes.ado](https://raw.githubusercontent.com/jhustata/nhanes/main/nhanes.ado) version control!
+[nhanes.ael.keep.do](https://raw.githubusercontent.com/jhustata/nhanes/main/nhanes.ael.keep.do)
 
 ```{code-cell}
 print(2 + 2)
